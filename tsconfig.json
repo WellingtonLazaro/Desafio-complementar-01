@@ -4,6 +4,7 @@
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "skipDefaultLibCheck": true,
+    "noImplicitAny": true,
     "esModuleInterop": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
